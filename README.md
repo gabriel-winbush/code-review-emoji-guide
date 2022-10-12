@@ -22,7 +22,7 @@ Using CREG (Code Review Emoji Guide) puts more ownership on the reviewer to give
 |   ♻️   |           `:recycle:`            | Suggestion for refactoring. <br /><br /> Should include enough context to be actionable and not be considered a nitpick.                                                                                                                        |
 |   🏕    |           `:camping:`            | Here is an opportunity, not directly related to your changes, for us to leave the campground [code] cleaner than we found it.                                                                                                                   |
 |   📌   |           `:pushpin:`            | This is a concern that is _out of scope_ and should be staged appropriately for follow up.                                                                                                                                                      |
-|   📝   |             `:memo:`             | This points out a change that should be made to bring code in line with an accepted style guide.                                                                                                                                                |
+|   🎩   |             `:memo:`             | This points out a change that should be made to bring code in line with an accepted style guide.                                                                                                                                                |
 
 ## Usage
 
@@ -44,7 +44,7 @@ Prepend comments with the appropriate emoji to convey the meaning associated wit
 
 > 📌 We really need to invest some time in refactoring out our use of this deprecated library. _Issue created: [LINK TO ISSUE]_.
 
-> 📝 This error should not be left unchecked.
+> 🎩 This error should not be left unchecked.
 
 ---
 
